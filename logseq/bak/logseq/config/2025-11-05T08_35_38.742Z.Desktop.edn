@@ -299,7 +299,7 @@
  ;;  :charge-range    600}   ; Default value: 600
 
  ;; Favorites to list on the left sidebar
- :favorites []
+ :favorites ["EH 242" "Courses"]
 
  ;; Set flashcards interval.
  ;; Expected value:
@@ -420,4 +420,5 @@
  ;;      ;use Percent-encoding for other invalid characters
  :file/name-format :triple-lowbar
  :publishing/all-pages-public? true
- :zotero/settings-v2 {"default" {:type-id "jackrschumacher"}}}
+ :zotero/settings-v2 {"default" {:type-id "11757843", :zotero-linked-attachment-base-directory "", :zotero-data-directory "/Users/jackr/Zotero", :extra-tags ""}}
+ :graph/settings {:orphan-pages? false}}

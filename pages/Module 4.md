@@ -1,4 +1,5 @@
-# Sundjata
+- /zotero
+- # Sundjata
 - ## Africa's as the Cradle of Civilization
 - Africas great drift valley
 	- Where the story of humanity likely begins
@@ -579,5 +580,60 @@
 			- Monastic rules as early as 4th to 6th century
 			- Voluntary movement of public flagellants arose and carried out processions
 			- Display of emotion and hysteria aimed at scaring people into atonement for their sins
+- # The Seventh Seal
+	- Produced/Created by Ingmar Bergman
+		- Middle period of his films
+			- Introspection into faith,etc.
+	- One of the great films of all time
+	- ## Characters
+		- Antonius Bloch- a knight returning home
+		- Jons - Bloch's nihilist squire
+		- Actors Jof and Mia (Joseph and Mary) and Skat
+		- Blacksmith Plog and Lisa (wife)
+		- Raval, religious radical and thief
+		- Silent girl
+		- Accused Witch
+		- Crusades aimed at seizing the holy land
+	- Bergman deals with issues of faith in this movie
+		- Dramatic images drawn from medieval art and drama
+			- Knight playing chess with death
+			- Death coming for the living
+				- Leading away men and women in solemn precessions - *Danse macabre*
+				- Death might appear as an emissary from God beckoning men to judgement and the afterlife
+				- Death appears as an enigmatic emissary of the unknown-bringing us unknowing into unkowable
+- ## Summary
+	- Knight Antonius Block and Squire Jons who have returned from 10 years in the crusades without much to show for it. Sweden is currently in the midst of the Black Plague. Night is confronted by specter of death. Knight challenges Death to a game of chess.
+	- Meet Jog and Mia
+		- (Names similar to Joseph and Mary)
+		- Do not represent holy family
+		- Kind of a foil of supernatural figures but in human
+		- The spiritual world remains inaccessible
+		- Torn between inability to believe and dissatisfaction with unbelief
+	- Searching for the meaning of life
+		- "I cry out to god in the dark"
+		- "but sometimes it seems there is no one there"
+	- Struggling with doubts about God's existence in hope of performing single meaningful act before dying
+		- Even in a way of cheating death
+		- Ultimately this gives him no consolation and peace
+		- His only respite from his existential dread occurs when he encounters Jof and Mia
+		- Eucharistic overtones
+			- Invests symbolic and commemorative significance
+			- "I shan’t forget this moment. And this shall be to me a sign and a great sufficiency."
+			- Block spends the whole film longing to hear from God
+			- Never see him actually doing much of anything in order to seek him
+			- "crying out to god in the night"
+		- Block talks to a witch about the devil but not to a priest about god
+		- Does not seek god
+			- "My indifference to men has shut me out. I live now in a world of ghosts, a prisoner in my dreams."
+		- Jof with visions and simple faith
+		- Film depicts his visions straightforwardly as blocks encounters with death
+			- Neither affirms gods existence or endorses his faith
+			- Blocks significant act suggest a curious solicitude on Bergman's part towards holy family
+		- Silence of God and the horror of death if there is no afterlife
+		- Place of god and religion in the human heart and human society
+		- Internal conflict and his sense of horror at prospect of empty heavens and eternal grave
 		-
+- Went off to fight for god
+	- Crusade turned out to be more about riches and grabbing land than about faith, feeling that he's wasted his life
+	-
 	-

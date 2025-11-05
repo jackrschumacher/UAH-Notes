@@ -420,5 +420,5 @@
  ;;      ;use Percent-encoding for other invalid characters
  :file/name-format :triple-lowbar
  :publishing/all-pages-public? true
- :zotero/settings-v2 {"default" {:type-id "11757843", :zotero-data-directory "C:\\Users\\jackr\\Zotero"}}
+ :zotero/settings-v2 {"default" {:type-id "11757843", :zotero-data-directory "/Users/jackr/Zotero"}}
  :graph/settings {:orphan-pages? false}}

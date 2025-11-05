@@ -128,7 +128,7 @@
  ;; If `:sidebar` remains unset, the right sidebar will stay hidden.
  ;; Examples:
  ;; 1. Set "Changelog" as the home page and display "Contents" in the right sidebar:
- ;; :default-home {:page "Changelog", :sidebar "Contents"}
+ :default-home {:page "Courses"}
  ;; 2. Set "Jun 3rd, 2021" as the home page without the right sidebar:
  ;; :default-home {:page "Jun 3rd, 2021"}
  ;; 3. Set "home" as the home page and display multiple pages in the right sidebar:
@@ -299,7 +299,7 @@
  ;;  :charge-range    600}   ; Default value: 600
 
  ;; Favorites to list on the left sidebar
- :favorites []
+ :favorites ["EH 242" "Courses"]
 
  ;; Set flashcards interval.
  ;; Expected value:
@@ -418,4 +418,7 @@
  ;;   - :triple-lowbar (default)
  ;;      ;use triple underscore `___` for slash `/` in page title
  ;;      ;use Percent-encoding for other invalid characters
- :file/name-format :triple-lowbar}
+ :file/name-format :triple-lowbar
+ :publishing/all-pages-public? true
+ :zotero/settings-v2 {"default" {:type-id "11757843", :zotero-linked-attachment-base-directory "", :zotero-data-directory "C:\\Users\\jackr\\Zotero", :extra-tags "", :page-insert-prefix "@", :attachments-block-text "[[Attachments]]"}}
+ :graph/settings {:orphan-pages? false}}
