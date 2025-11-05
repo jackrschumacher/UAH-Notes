@@ -502,7 +502,7 @@
 		- Coming of Mali merchants, selling leaves and other items in Mema
 		- Balla Faseke's intrusion into Soumaro Sosso's magic chamber
 - # The Black Plague and Boccaccio
-	- ![The spread of the Black Death in Europe and the Near East (1346–1353)](https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/1346-1353_spread_of_the_Black_Death_in_Europe_map.svg/1920px-1346-1353_spread_of_the_Black_Death_in_Europe_map.svg.png)
+	- ![The spread of the Black Death in Europe and the Near East (1346–1353)](https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/1346-1353_spread_of_the_Black_Death_in_Europe_map.svg/1920px-1346-1353_spread_of_the_Black_Death_in_Europe_map.svg.png){:height 580, :width 549}
 	- ## Black Plauge
 		- The Seventh Seal set during the Black Plague
 		- 1347-1352
