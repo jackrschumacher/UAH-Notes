@@ -421,4 +421,4 @@
  :file/name-format :triple-lowbar
  :publishing/all-pages-public? true
  :zotero/settings-v2 {"default" {:type-id "11757843", :zotero-data-directory "C:\\Users\\jackr\\Zotero"}}
- :graph/settings {:orphan-pages? false}}
+ :graph/settings {:orphan-pages? true}}
