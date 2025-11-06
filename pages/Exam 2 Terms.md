@@ -56,16 +56,21 @@
 - ### 🧩 Game Theory and Market Structures
   
   * **Game Theory:** The study of strategic interactions.
-  * **Simultaneous Move Game:** A game where players select their strategies at the same time without knowing the other's choice.
+- * **Backward Induction:** The procedure of solving an extensive form game by considering the last mover's decision
+- **Simultaneous Move Game:** A game where players select their strategies at the same time without knowing the other's choice.
   * **Payoff Matrix:** Shows the payoffs (outcomes) for each player for each strategy.
   * **Dominant Strategy:** A player's best response, regardless of what the other player does.
   * **Dominant Strategy Equilibrium:** An outcome where each player uses their dominant strategy.
   * **Nash Equilibrium:** A situation where each player chooses a strategy that is best for them, given the strategies chosen by the other players.
   * **Perfect Competition:** An industry structure with many firms, a homogeneous product, free entry and exit, and complete information.
   * **Price Taker:** A firm in a perfectly competitive market that has no influence over the market price.
-  * **Monopoly:** A market structure with one firm, a unique product, and high barriers to entry.
+- * **Nodes:** The decision points in an extensive form games
+- **The Tragedy of the Commons:** The overuse of shared resources that results in a negative externality
+- **Monopoly:** A market structure with one firm, a unique product, and high barriers to entry.
   * **Market Power:** The ability to set the price.
   * **Oligopoly:** A market structure with a few competing firms, significant barriers to entry, and interdependent decision-making.
   * **Homogeneous (Products):** Identical products.
   * **Differentiated (Products):** Products that are similar but not identical.
   * **Monopolistic Competition:** A market structure with many firms, differentiated products, and no barriers to entry.
+-
+-
