@@ -1,6 +1,4 @@
-tags:: Bash
-
-- # Bash fundamentals
+# Bash fundamentals
 - Bash is a shell- prints the prompt and interprets
 	- ![image_1761346122054_0.png](../assets/image_1761346122054_0_1762457946230_0.png){:height 288, :width 364}
 - Bash is the root of scripting
