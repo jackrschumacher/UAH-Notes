@@ -17,6 +17,7 @@
 	- $Assets = Liabilities + Contributed Capital + Retained Earnings$
 	- $Assets = Liabilities + Common Stock - Dividends + Revenues - Expenses$
 - ## The Normal balance of an account
+	- ![](https://images.squarespace-cdn.com/content/v1/59078005a5790ae9a242edf2/73df2326-c55d-455a-a707-1026144a039f/Normal-Account-Balance-1.jpg)
 	- ![image.png](../assets/image_1762488957846_0.png)
 - # Journalizing and Posting Transactions
 	- **Step 1:** Identify the accounts and the account types (asset, liability, or equity)
@@ -24,6 +25,13 @@
 	- **Step 3:** Record the transaction in the journal
 	- **Step 4:** Post the journal entry to the ledger
 	- **Step 5:** Determine whether the accounting equation is in balance
+- ## Dividends
+	- On declaration date:
+		- Debit retained earnings
+		- credit dividends payable
+	- On payment date:
+		- Debit dividends payable
+		- Credit cash
 - # Chapter 5
 - ## What are Merchandising Operations?
 	- Business that sells merchandise, or goods, to customers/consumers
