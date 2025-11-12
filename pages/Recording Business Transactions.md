@@ -17,7 +17,7 @@
 	- $Assets = Liabilities + Contributed Capital + Retained Earnings$
 	- $Assets = Liabilities + Common Stock - Dividends + Revenues - Expenses$
 - ## The Normal balance of an account
-	- ![](https://images.squarespace-cdn.com/content/v1/59078005a5790ae9a242edf2/73df2326-c55d-455a-a707-1026144a039f/Normal-Account-Balance-1.jpg)
+	- ![](https://images.squarespace-cdn.com/content/v1/59078005a5790ae9a242edf2/73df2326-c55d-455a-a707-1026144a039f/Normal-Account-Balance-1.jpg){:height 485, :width 648}
 	- ![image.png](../assets/image_1762488957846_0.png)
 - # Journalizing and Posting Transactions
 	- **Step 1:** Identify the accounts and the account types (asset, liability, or equity)
