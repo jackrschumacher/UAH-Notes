@@ -1,0 +1,14 @@
+### Example behavioral finance graph
+- ![image.png](../assets/image_1763070658184_0.png){:height 354, :width 414}
+- # Cognitive errors & emotional biases
+- ## Cognitive errors
+- ### Belief Perseverance (Core)
+	- #### Description
+		- Tendency to maintain a belief despite evidence that contradicts your beleif
+	- #### Example
+		- Continuing belief in the honestly of a political candidate after clear evidence of corruption
+- ### Confirmation Bias
+	- #### Description
+		- Seeking, interpreting, recalling information in a way that confirms pre-existing beliefs but ignoring conflicting data
+	- #### Example
+		- Smoker only reading studies that downplay the health risks of smoking
