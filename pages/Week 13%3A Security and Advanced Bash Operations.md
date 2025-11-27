@@ -116,6 +116,9 @@
 				- Insecure services
 			- Use case
 			- Scripts to list open ports- use **netstat**
+				- ```bash
+				  sudo netstat -tulnp #Lists all ports and thier associated proccesses
+				  ```
 		- ### Creating Audit Reports in Bash
 			- Bash scripts used for automating system auditing tasks
 			- Gather various pieces of information- such as:
