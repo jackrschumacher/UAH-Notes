@@ -70,4 +70,4 @@
 - ### Coase Theorem
 	- States that private bargaining will result in an efficient allocation of resources
 	- The end result is that government intervention is not necessary to solve externality problems - private bargaining can do the job
--
+	-
