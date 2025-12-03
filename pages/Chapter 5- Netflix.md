@@ -21,10 +21,8 @@ Netflix is a rare example of a firm that disrupted itself to survive. Under CEO 
   | **Cost Structure** | **Fixed Costs:** Buy the DVD once, rent it many times. | **Marginal Costs:** Licensing fees rise as the user base grows. |
   | **Inventory** | **The Long Tail:** Near-limitless selection of niche titles. | **"Long-Enough" Tail:** Curated selection based on budget and availability. |
   
-  !
   
-  [Image of the long tail demand curve]
-  (http://googleusercontent.com/image_collection/image_retrieval/image_long_tail)
+  
   *> The Long Tail: The DVD model allowed Netflix to monetize niche content. Streaming licensing makes this harder to achieve.*
   
   ---
@@ -48,11 +46,6 @@ Netflix is a rare example of a firm that disrupted itself to survive. Under CEO 
   Netflix uses algorithms to classify users into "taste doppelgangers" and creates over **76,000 micro-genres**.
   * **Recommendation Dominance:** 75–80% of views come from recommendations, not search.
   * **The "Moment of Truth":** Users spend only **1.8 seconds** viewing a title card. Netflix A/B tests and customizes thumbnails to appeal to specific users (e.g., showing a comedy actor vs. a romance actor on the same movie poster).
-  
-  !
-  
-  [Image of collaborative filtering recommendation system diagram]
-  (http://googleusercontent.com/image_collection/image_retrieval/image_collab_filtering)
 - ### Data Ethics
   **Bias in AI:** Users have noted that "black box" algorithms sometimes generate thumbnails featuring Black actors for Black users, even if the actor has a minor role. This highlights the risk of unintended bias in machine learning.
   
