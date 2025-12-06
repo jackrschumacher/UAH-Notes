@@ -1,0 +1,7 @@
+- [[Week 1-Python basics]]
+- [[Week 2-Advanced Programming]]
+- [[Week 3-Functions, Files and exceptions]]
+- [[Week 4-Data structures]]
+- [[Week 5- Inheritance]]
+- [[Week 6-Python Libraries]]
+-
