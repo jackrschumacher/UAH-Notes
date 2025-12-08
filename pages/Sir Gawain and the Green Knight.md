@@ -279,6 +279,7 @@
 			- Eversong would have been a service of religious songs
 			- Told about this through a variety of liturgical books
 - # Fitts 3&4
+	- ![The hunt of the boar](../assets/Sir_Gawain_Fitts_3-4_Part_3_-_Google_Chrome_12_07_25_04-29-00_PM_1765146543550_0.png){:height 198, :width 272}
 	- #+BEGIN_QUOTE
 	  "the biggest of wild boars has bolted
 	  from his cover" (1441)
@@ -286,4 +287,227 @@
 	  style, / while our lovable young lord had
 	  not left his bed" (1468-69)
 	  #+END_QUOTE
-	-
+		- Hunting the boar
+		- Involves the lord going out again in order to pursue the boar
+		- More parallels \rarr juxtaposition of the hunt
+		- Lord Gawain had not left his bed (passive creatures)
+		- Must confront the woman
+		- Cannot beat Gawain
+		- Man dedicated to his duty can not ignore
+	- #+BEGIN_QUOTE
+	  "l encouraged you to kiss" (1489).
+	  "he hobbled away to hunker in a hole /
+	  by a stony rise at the side of the stream"
+	  (1569-70).
+	  #+END_QUOTE
+		- Retorts back to courtesy
+		- Kind of tension between them
+		- Going between this and the hunt for the boar
+		- Kind of a seduction
+		- Dodge her advances in order to get out of the situation
+		- The Boar is subdued by the Lord
+	- #+BEGIN_QUOTE
+	  "Then, admiringly he handles the hog's
+	  great head, / feigning fear to flatter the
+	  master's feelings" (1633-34).
+	  #+END_QUOTE
+		- Irony when be being given the head of the boar since he was the one that did the beheading
+		- Has continued to kiss the lady
+	- #+BEGIN_QUOTE
+	  "And so loving was that lady towards the young lord, / with stolen
+	  glances and secret smiles / that it muddled his mind and sent him half
+	  mad, / but to snub a noblewoman was not in his nature, / and though
+	  tongues might wag he returned her attention all night" (1657-62).
+	  "l have tested you twice and found you truthful. / But think tomorrow
+	  third time throw best' (1679-80).
+	  #+END_QUOTE
+		- Gawain is struggling
+		- Cannot snub the noblewomen's advances
+		- He is playing a fine line
+	- #+BEGIN_QUOTE
+	  "Often, in the open, the pack tried to
+	  pounce, / then that crafty Reynard
+	  would creep into coved' (1727-28)
+	  Why these animals?
+	  #+END_QUOTE
+		- The lord continues to hunt
+	- #+BEGIN_QUOTE
+	  "in this manner through the mountains until midafternoon, / while our handsome hero snoozed contentedly at home" (1730-31).
+	  "She wore nothing on her face; her neck was naked, /and her shoulders were bare to both back and breast" (1740-41).
+	  "They talk with tenderness / and pride, and yet thei rplight / is perilous unless / sweet Mary minds her knight"
+	  #+END_QUOTE
+		- Set up these parallels
+		- We know that the lady is going to come again
+		- He is within the bed without being under the covers
+		- She is really pressing now
+		- Neck was naked and her shoulders were bare
+		- Passionate heat takes a hold in his heart
+		- He is in peril at this moment
+	- #+BEGIN_QUOTE
+	  "There is no other one, / and won't be for a while!" (1791
+	  "Will you give me some gift—a glove at least" (1799).
+	  "She offers him a ring of rich, red gold" (1817).
+	  "so I give you my girdle, a less thing to gain" (1829).
+	  "Then fully and frankly he spoke of his sins" (1880).
+	  #+END_QUOTE
+		- He pushes back onto the lady \rarr this is not going to happen
+		- The lady offers him a ring of rich red and gold
+			- He refuses again
+			- He refuses other gifts that the lady offers him
+			- He intended to take neither gold nor girdle
+		- Like a fox how can he slip away out of this
+			- Wants to avoid this fate
+		- ![image.png](../assets/image_1765147527575_0.png){:height 486, :width 216}
+	- #+BEGIN_QUOTE
+	  "Then red fur rips—Renyard / out of
+	  his pelt is prized" (1920-21).
+	  "His blue robe flowed as far as the
+	  floor, / his soft-furred surcoat suited
+	  him well" (1928-29).
+	  "He clasps him tight and kisses him
+	  three times" (1936).
+	  #+END_QUOTE
+		- Rise to the dead fox
+		- Tries to move past his relationship with the lady
+		- ![image.png](../assets/image_1765147691419_0.png){:height 436, :width 296}
+		-
+	- #+BEGIN_QUOTE
+	  "So let him lie and think,
+	  in sight of what he sought.
+	  In time I'll tell if tricks
+	  work out the way they ought." (1994-97)
+	  "But our man bore the belt not merely for its
+	  beauty, / or the appeal of its pennants, polished
+	  though they were, / or the gleam of its edges which
+	  glimmered with gold, / but to save his skin when
+	  presenting himself' (2037-40)
+	  #+END_QUOTE
+		- ![image.png](../assets/image_1765147765065_0.png){:height 276, :width 320}
+		- Time for Gawain to prepare to leave
+		- Takes the belt in order to save his skin
+	- #+BEGIN_QUOTE
+	  "In that wilderness lives a wildman, the worst in the
+	  world, / he is brooding and brutal and loves
+	  bludgeoning humans" (2098-2099)
+	  "Green Church?" chunters the knight. / "More like
+	  the devil's lair / where, at the nub of night, / he
+	  makes his morning prayer" (2185-88).
+	  "This is a haunted house—may it go to hell" (2195)
+	  #+END_QUOTE
+		- In the wilderness lives a crazy serial killer
+			- Brooding and brutal and loves to bludgeon humans
+		- Medieval audience would have said that he is trying to use his own sort of magic with this girdle
+		- Its similar to going to the devils lair/ a haunted house
+			- A disturbing place
+			- A soulless spot
+	- #+BEGIN_QUOTE
+	  "that grinding is a greeting. / My arrival is honored with the honing of an axe" (2205-6).
+	  "Call yourself good Sir Gawain?" (2270).
+	  "it skewed to one side, just skimming the skin / and
+	  finely snicking the fat of the flesh / so that bright
+	  red blood shot from the body to earth" (2311-14).
+	  #+END_QUOTE
+		- ![image.png](../assets/image_1765148307036_0.png){:height 428, :width 232}
+		- A camoflauge man
+		- Pulls out an axe
+			- The blade has been sharpened by this giant of a man
+		- He was not afraid
+		- The same sort of insults that he had hurled at Arthurs court
+		- He runs away and then his horse is right there
+		- This is as one of Arthurs male kin becomes the king
+			- He is facing this
+		- Recognizes his own failings and takes off the green girdle
+			- He realizes the fate that he was trying to avoid anyway
+			- He has one more chance to do the right thing
+			- I must take this off before you take your swing at me
+			  background-color:: yellow
+		- "Do you walk the walk as well as talk the talk"
+		- Knows that his death is coming
+		- The threes- three days of hunting, three days of seduction, three days of exchange
+	- #+BEGIN_QUOTE
+	  "my first strike fooled you—a feint, no less—
+	  not fracturing your flesh, which was only fair
+	  in keeping with the contract we declared that first night,
+	  for with truthful behavior you honored my trust
+	  and gave up your gains as a good man should.
+	  Then I missed you once more, and this for the morning
+	  when you kissed my pretty wife then kindly kissed me.
+	  The third time, though, you strayed,
+	  and felt my blade therefore."
+	  (2345-49, 2356-57)
+	  #+END_QUOTE
+	- #+BEGIN_QUOTE
+	  "But a little thing more—it was loyalty that you lacked: /
+	  not because you're wicked, or a womanizer, or worse,
+	  / but you loved your own life; so I blame you less"
+	  (2366-68).
+	  "By confessing your failings you are free from fault"
+	  (2391
+	  "All wrecked and ruined by their wrongs; if only / we
+	  could love our ladies without believing their lies."
+	  (2420-21
+	  #+END_QUOTE
+		- We want to save our lives as humans
+		- Cannot be blamed for his life actions \rarr and the actions of the women that seduced him
+	- #+BEGIN_QUOTE
+	  "as a sign of my sin—I'll see it as such /
+	  when I swagger in the saddle—a sad
+	  reminder / that the frailty of his flesh is
+	  man's biggest fault" (2433-35).
+	  "In my manor lives Morgan la Fay" (2446)
+	  "To put pride on trial and to test with this
+	  trick / what distinction and trust the Round
+	  Table deserves" (2157-58).
+	  #+END_QUOTE
+		- A touch of filth taints his frame
+		- Always keep him humble when he is swaggering in the saddle
+		- Finds some humility
+		- Tests them to see if their reputation is true
+		- Wants to undermine her brother again
+			- We go back to the beginning of the text
+	- #+BEGIN_QUOTE
+	  "He grimaced with disgrace, / he writhed
+	  in rage and pain. / Blood flowed towards
+	  his face / and showed his smarting
+	  shame" (2501-4).
+	  "The king gave comfort, then laughter
+	  filled the castle" (2513).
+	  #+END_QUOTE
+		- ![image.png](../assets/image_1765150516432_0.png){:height 704, :width 367}
+		- Another sort of confessional mode
+		- Gawain was not killed by the Green Knight because he was so great
+		- The girdle becomes a sign of brotherhood
+		- We go back to the beginning of the text and the assault on Troy
+			- The motto: "Hony Soyt Qui Mal Pence" ("Shame to him who thinks eviol of it")
+			- The motto of the order of the girdle
+			- This was a royal society of King Edward III
+			- We still have this today, and you sometimes see royals wearing clothes from the order of the Gartle
+- # Overall Themes
+	- ## The Girdle
+		- **To Arthurs Knights:**
+			- Gawain's survival
+			- Loyalty to brothers
+			- Overcoming adversity
+			- Gawain's victory
+		- **To Gawain:**
+			- Sign of sin
+			- Sign of Human nature
+			- A failure of his knightly code
+	- ## Repetition
+		- Gender?
+			- Who is in charge?
+			- Is Morgan's test noble or treacherous?
+		- Do Arthur and his knights "get" the message of the "blazon of blame"
+		- We also begin and end in the same place
+		- Not aware of Gawain's failures
+	- ## The Monster Stands at the Threshold of Becoming
+		- "Monsters are our children"
+		- Monsters ask us how we perceive our world and how we have misrepresented what what have attempted to place"
+		- The beg us to reconsider our cultural disparities of economics, gender and sexuality
+		- How do the people in the court react to the presence of the monster in the court
+	- ## Other
+		- What does Arthur expect of the world for himself? What is the norm for the king and ruler?
+		- How does the Arthurian court misperceive its own place in the world?
+		- What gender norms are set up by the poem and where does it radically veer from these expectations?
+		- What is the difference between power and and oppression? What about between confidence and pride? What is the reason for the Green Knight in the first place?
+		-
