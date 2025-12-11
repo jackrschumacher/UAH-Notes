@@ -19,6 +19,7 @@
 				- **Marginal tax rate**
 					- Rate paid on last dollar of income
 					- Your tax bracket corresponds to your marginal tax rate
+					  collapsed:: true
 						- Higher than average tax rate because of the progressive tax system
 						- ![image.png](../assets/image_1763173051196_0.png){:height 247, :width 436}
 						- ![image.png](../assets/image_1763173149385_0.png){:height 218, :width 367}

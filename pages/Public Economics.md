@@ -27,7 +27,7 @@
 	- #+BEGIN_EXAMPLE
 	  Anne would like Fred to agree to putting a filter on his emissions pipe because this would save the brewery from having to spend so much money on purifying the water it uses. Fred has no incentive to do so since installing the filter costs his firm money, reducing its profits.
 	  #+END_EXAMPLE
-	- ![image.png](../assets/image_1763942587034_0.png){:height 324, :width 606}
+	- ![image.png](../assets/image_1763942587034_0.png){:height 245, :width 559}
 	- ![image.png](../assets/image_1763942700198_0.png){:height 392, :width 616}
 	- We cannot rely too much on private solutions to externalities for these reasons:
 		- Transaction costs could be too high
