@@ -4,4 +4,5 @@
 - [[Chapter 20- A Manager's Guide to the Internet and Telecommunications]]
 - [[Chapter 5- Netflix]]
 - [[Chapter 9- Amazon]]
+- [[Exam 2 Combined Notes]]
 -
