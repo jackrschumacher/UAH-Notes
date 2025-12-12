@@ -1,8 +1,15 @@
 # Exam 2
-- [[Chapter 18]]
+- [[Chapter 1-Technology and the Modern Enterprise]]
 - [[Chapter 2- ZARA]]
-- [[Chapter 20- A Manager's Guide to the Internet and Telecommunications]]
+- [[Chapter 3-Strategy and Technology]]
 - [[Chapter 5- Netflix]]
+- [[Chapter 6-Moore's Law and More]]
+- [[Chapter 7- Disruptive Technologies]]
 - [[Chapter 9- Amazon]]
+- [[Chapter 10- Platforms, Network Effects, and Competition]]
+- [[Chapter 17- Data and Competitive Advantage]]
+- [[Chapter 18- Artificial Intelligence]]
+- [[Chapter 20- A Manager's Guide to the Internet and Telecommunications]]
 - [[Exam 2 Combined Notes]]
+-
 -
