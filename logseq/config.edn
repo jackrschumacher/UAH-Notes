@@ -299,7 +299,7 @@
  ;;  :charge-range    600}   ; Default value: 600
 
  ;; Favorites to list on the left sidebar
- :favorites ["FIN 230" "IS 301" "IS 310" "ACC 212" "ECN 143" "EH 242" "Courses"]
+ :favorites ["PHL 101" "MGT 301" "IS 401" "IS 340" "BYS 121" "BYS 119" "Courses"]
 
  ;; Set flashcards interval.
  ;; Expected value:
