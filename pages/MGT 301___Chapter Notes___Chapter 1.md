@@ -25,6 +25,8 @@
 	- Jobs in management positions have increased from 10 to 18 percent since 1950
 	- Managerial positions typically have higher salaries
 - ### The Gender gap
+  
+  ![A three-dimensional bar graph depicts the broad salary gap between men and women.](https://plus.pearson.com/eps/pearson-reader/api/item/72b412ac-51fe-425d-aed2-ec96529f5260/1/file/certo-mmcas-15e_eText_v3/OPS/images/FG_01_001.png)
 - Men are more often executives than women
 - Women are also typically payed less than men
 	- Occurs in almost all regions
@@ -42,9 +44,9 @@
 - Can also refer to a body of knowledge
 - Management is a cumulative body of knowledge
 - **Management** is the process of reaching organizational goals by working with and through people and other organizational resources
-	- A process or series of continuing and related activities
-	- Involves and concentrates on reaching organizational goods
-	- Reaches these goals by working with and through people and other organizational resources
+  1. A process or series of continuing and related activities
+  2. Involves and concentrates on reaching organizational goods
+  3. Reaches these goals by working with and through people and other organizational resources
 - ## Management Functions
 - ### Planning
 - Involves choosing tasks that must be performed to attain organizational goods
@@ -66,20 +68,25 @@
 - Purpose of influencing to increase productivity
 - Human-oriented work situations usually generate higher levels of production over long term
 - ### Controlling
-- Gather information that measures recent performance withing the organization
-- Compare present performance to preestablished performance standards
-- From this comparison, determine whether the organization should be modified to meet preestablished standards
+  
+  1. Gather information that measures recent performance withing the organization
+  2. Compare present performance to preestablished performance standards
+  3. From this comparison, determine whether the organization should be modified to meet preestablished standards
 - Controlling is an ongoing process
 - Managers continually gather information, make comparisons, try to find new ways of improving production through modification
 - History shows that managers commonly make mistakes when planning, organizing, influencing and controlling shows mistakes managers make related to each functions
 - ## Management Process and Organizational Resources
+  
+  ![Relationship among the four functions of management used to attain organizational goals](https://plus.pearson.com/eps/pearson-reader/api/item/72b412ac-51fe-425d-aed2-ec96529f5260/1/file/certo-mmcas-15e_eText_v3/OPS/images/FG_01_003.png)
 - Managers must understand the four management functions are practiced
 - Bias for action, autonomy, entrepreneurship, productivity through people, hands on, etc
 - Management must always be aware of the status and use organizational resources
-	- Human
-	- Monetary
-	- Raw materials
-	- Capital
+  1.  Human
+  2.  Monetary
+  3.  Raw materials
+  4.  Capital
+  
+  ![Transformation of organizational resources into finished products throughout the production process](https://plus.pearson.com/eps/pearson-reader/api/item/72b412ac-51fe-425d-aed2-ec96529f5260/1/file/certo-mmcas-15e_eText_v3/OPS/images/FG_01_004.png)
 - HR are people who work in an organization
 - Monetary resources - amounts of money managers use to purchase goods and services for an organization
 - Capital resources - The machines used during the manufacturing process
@@ -96,6 +103,8 @@
 	- *Efficient* means that a large proportion of resources contributes to productivity
 - Effectiveness and efficiency are related
 	- A manager can be effective without being efficient and vice versa
+	  
+	  ![](https://plus.pearson.com/eps/pearson-reader/api/item/72b412ac-51fe-425d-aed2-ec96529f5260/1/file/certo-mmcas-15e_eText_v3/OPS/images/FG_01_005.png)
 - ## The universality of management
 - Management principles are universal
 	- Apply to all types of organizations
@@ -112,4 +121,70 @@
 - **Management skill**- The ability to carry out the process of reaching organizational goals working with and through people and other organizational resources
 - Management skills are so critical to success of an organization, companies commonly focus on possible steps to improve managers
 - Because management skills are so critical to success of an organization, companies commonly focus on possible steps that can be take to improve managers skills
-- ## Management Skills
+- ### The Three management skills
+- **Technical Skills** -  Involve ability to apply specialized knowledge and expertise to work-related techniques and procedures
+- **Human skills** - Build cooperation within the team being led
+	- Working with attitudes and communication
+	- Individual and group interests
+- **Conceptual skills** - Involve the ability to see the organization as a whole. Manager with conceptual skills is able to understand how various functions of the organization complement one another
+- ![](https://plus.pearson.com/eps/pearson-reader/api/item/72b412ac-51fe-425d-aed2-ec96529f5260/1/file/certo-mmcas-15e_eText_v3/OPS/images/FG_01_006.png)
+- ### Three activities
+- **Task related activities** - Management efforts aimed at carrying out critical management- related duties in organizations
+- **People-related activities** - Management efforts aimed at managing people in organizations
+- **Change-related activities** - Management efforts aimed at modifying organizational components
+- **Management employability skills** - refer to a persons ability to gain and maintain a career as a manager
+  
+  ![](https://plus.pearson.com/eps/pearson-reader/api/item/72b412ac-51fe-425d-aed2-ec96529f5260/1/file/certo-mmcas-15e_eText_v3/OPS/images/7291301010.png)
+- ## Management Careers
+- Career definition, career and life stages and performance, career performance, career promotion
+- ### A definition of Career
+- **Career** - A sequence of work-related positions occupied by a person over the course of a lifetime
+	- People accumulate experiences over time
+	- Management positions are stepping stones to other positions
+	- Must focus on developing the skills necessary to qualify for further management advances
+- ## Career Stages, Life Stages, and Performance
+  
+  ​	![](https://plus.pearson.com/eps/pearson-reader/api/item/72b412ac-51fe-425d-aed2-ec96529f5260/1/file/certo-mmcas-15e_eText_v3/OPS/images/7291301011.png)
+- Increasing population of older people are being employed
+- ### Exploration Stage
+- Occurs at the beginning of the career
+- 15-25 years old
+- Often pursue part time employment
+- Typically hold lower level jobs
+- ### Establishment Stage
+- 25-45 years old to become more productive or higher performers within the company
+- Usually sought after higher paying jobs
+- Organizations viewpoint, better for managers to experience career growth
+- Attempting to eliminate career plateuing
+- ### Decline Stage
+- 65+ whose productivity is decreasing
+- Close to retirement, semi-retired, etc or fully retired
+- May become part time workers in businesses
+- ## Promoting your own career
+- Planning your career path
+	- Sequence of jobs that you will take
+	- Be proactive
+	- The plan does not limit your options
+- Consider strengths and liabilities
+- Set career goals and revise them
+- | **Dimension**  | **Professional Employee**                                    | **Manager**                                                 |
+  | -------------- | ------------------------------------------------------------ | ----------------------------------------------------------- |
+  | Responsibility | Assumes responsibility for individual career development     | Assumes responsibility for employee development             |
+  | Information    | Obtains career info through self-eval and data-collection    | Provides info by testing realities                          |
+  | Planning       | Develops an individual plan to reach objectives              | Help employee to assess plan                                |
+  | Follow-through | Invites management support through high-performance on the current job | Provides coaching and relevant information on opportunities |
+- *reactive* - Must take specific action to demonstrate abilities and accomplishments
+- ## Special Career Issues
+- ### Women Managers
+- Must meet same challenges in the workplace as men
+- Predict networks of relationships in business
+- Detailed rues and procedures
+- Predict networks of relationship will replace rigid organizational structures
+- ### Dual-Career couples
+- Retain the best performers
+- Flexibility on the part of the couple
+- #### How the couples cope
+- Many cope with their career difficulties in one of the following ways
+- Develop commitment to both spouses careers
+- Must limit their social lives
+- Facilitate their mutual career advancement
