@@ -44,4 +44,32 @@
 		- Orbital is a component of an electron shell
 - ### The formation and function of molecules and iconic compounds
 	- Atoms with incomplete valence shells can interact with other atoms in order to complete the valence shell
-	-
+	- Valence and usually equals the number of electrons required to complete the outermost valence shell
+	- Attraction of a particular atom for the electrons of a covalent bond is called **electronegativity**
+	- **Non-polar covalent bond** A type of covalent bond in which electrons are shared equally between atoms of similar electronegativity
+	- **Polar covalent bond** - Bonds that vary in their polarity
+	- #### Ionic bonds
+		- **Ions** - two resulting oppositely charged atoms
+		- **Cation**- positively charged ion
+		- **Anion** - negatively charged ion
+		- Cations and anions attract each other, resulting in an **ionic bond**
+		- Compounds formed by ionic bonds are called **ionic compounds or salts**
+	- #### Weak Chemical Interactions
+		- Most of the strongest chemical bonds are covalent bonds
+		- Large biological molecules are held by weak interactions
+	- #### Hydrogen Bonds
+		- This noncovalent attraction between hydrogen and electronegative atoms
+		- ![image.png](../assets/image_1769211980672_0.png){:height 486, :width 526}
+	- #### Van der Walls interactions
+		- Electrons not always not always evenly distributed
+		- Van der Walls interactions are individually weak and occur only when atoms and molecules are vey close
+	- #### Molecular shape and Function
+		- Shapes determined by the positions of the atoms
+		- Atom forms covalent bonds the orbitals in its valence shell undergo rearrangement
+- ### Chemical reactions and chemical bonds
+	- ![image.png](../assets/image_1769212589770_0.png)
+	- **Chemical reactions** - the making and breaking of chemical bonds
+	- Use an arrow to indicate the change
+	- **Reactants** - Starting materials
+	- **Products**- resulting materials
+	- **Chemical equilibrium** - Point at which the reactions offset one each other
