@@ -67,7 +67,7 @@
 		- Shapes determined by the positions of the atoms
 		- Atom forms covalent bonds the orbitals in its valence shell undergo rearrangement
 - ### Chemical reactions and chemical bonds
-	- ![image.png](../assets/image_1769212589770_0.png)
+	- ![image.png](../assets/image_1769212589770_0.png){:height 207, :width 550}
 	- **Chemical reactions** - the making and breaking of chemical bonds
 	- Use an arrow to indicate the change
 	- **Reactants** - Starting materials

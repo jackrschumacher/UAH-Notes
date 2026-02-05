@@ -1,4 +1,4 @@
-- ![image.png](../assets/image_1769127869612_0.png)
+- ![image.png](../assets/image_1769127869612_0.png){:height 404, :width 581}
 - **Science** - Systematic study of structure and behavior in the natural world.
 - **Rational reasoning** - Uses logic, evidence, and careful evaluation in order to form conclusions about an observation
 - **Scientific thinking** - Type of rational reasoning that involves applying the scientific method to problem solving - forming hypotheses and collecting and analyzing data
