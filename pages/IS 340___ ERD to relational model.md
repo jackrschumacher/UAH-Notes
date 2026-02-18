@@ -62,4 +62,71 @@
 	  #+END_EXAMPLE
 	- ![image.png](../assets/image_1771363932257_0.png)
 - ## One to many
+	- Can be implemented in the DB using cross-reference
+	- Observing that rows on the many side of the relationship can be associated with at least one row from one side
+	- #+BEGIN_EXAMPLE
+	  In our ERD, the employee entity participates in one-to-many relationships with both factory and itself:
+	  #+END_EXAMPLE
+	- ![image.png](../assets/image_1771389669430_0.png){:height 488, :width 396}
+	- #+BEGIN_EXAMPLE
+	  There is also a one-to-one relationship between employee and factory, which we will deal with in the next section.
+	  
+	  Considering first the works at relationship, we see that each employee works at no more than one factory. Therefore, we can include a column for the factory’s city in the employee table. For consistency with previous choices, we will call this column factory_city. This column should be constrained by a foreign key referencing the factory table.
+	  
+	  We also have the supervises relationship to deal with. In the same fashion as above, we should include a column in the employee table containing primary keys from the employee table. However, we should give careful consideration to the name we give this added column; employee_id would be a very misleading choice! A better choice is to consider the role of the employee whose id will be stored, and call the column supervisor_id.
+	  
+	  With these changes, the employee table now looks like:
+	  #+END_EXAMPLE
+	- ![image.png](../assets/image_1771389814094_0.png)
+	- Might choose to use a cross-reference table for the relationship between factory and model in anticipation of this possibility
+- ## One to one
+	- Can considered a special case of one to many relationships
+	- Can utilize either approach suitable for one to many relationships
+	- Will be preferable to borrow primary key from one table as FK in the other table
+	- #+BEGIN_EXAMPLE
+	  In our example, we have a one-to-one relationship, manages, between employee and factory. We could therefore add another column to the employee table, this time for the city of the factory that the employee manages. However, most employees do not manage factories, so the column will end up containing many NULL values.
+	  
+	  On the other hand, every factory should have a manager (implied by the total participation of factory in the relationship). It makes perfect sense, then, to add a column to the factory table for the employee managing the factory. This is another situation in which it makes sense to name the column for the role of the employee in this relationship, so we will call the new column manager_id.
+	  
+	  Here is the completed factory table:
+	  #+END_EXAMPLE
+	- ![image.png](../assets/image_1771390823529_0.png)
+- ### Higher arity relationships
+	- Relationships with 3 or more participants create a cross reference table
+- ### Identifying relationships
+	- Relationships for weak entities are necessarily one to many or one to one
+	- Conversion of weak entity incorporates column containing primary key values from the parent table
+- # Multivalued Attributes
+	- Multivalued attributes can be used to model
+	- Multivalued attribute used when a list of arbitrary values needs to be stored
+	- No particular expectation that values will be examined in DB search
+	- Best choice might be to make a simple table with two columns-one for the primary key of the owning table and one for the values themselves
+		- Each entry in the table associates one value with the instance of the entity
+	- #+BEGIN_EXAMPLE
+	  In our example, computer models can be marketed to customers for different applications, such as gaming, video editing, or business use. This is represented in our data model with the multivalued application attribute:
+	  #+END_EXAMPLE
+	- ![image.png](../assets/image_1771391878368_0.png)
+	- ![image.png](../assets/image_1771391887525_0.png)
+	- #+BEGIN_EXAMPLE
+	  Many applications also require the values associated with a multivalued attribute to be restricted to a certain list of values. In this case, an additional table is used. The additional table exists just to contain the allowed values, allowing us to constrain the data to just those values. For more complex values, an artificial identifier may be added as a primary key, and the primary key used in the multivalued attribute table instead of the values themselves, in which case the multivalued attribute table becomes a cross-reference table. For small lists of simple values (as in our example), this adds unnecessary complication.
+	  
+	  For our example, we will constrain the application column using a foreign key constraint referencing this simple table:
+	  #+END_EXAMPLE
+	- ![image.png](../assets/image_1771391907170_0.png)
+- # Full model conversion
+	- ![image.png](../assets/image_1771392271147_0.png)
+	- ![image.png](../assets/image_1771392383059_0.png)
+	- ![image.png](../assets/image_1771392391709_0.png)
+	- ![image.png](../assets/image_1771392400429_0.png)
+	- #+BEGIN_EXAMPLE
+	  The model table contains columns for the attributes of the model entity. Only the component attributes of the composite attribute designation are included; as designation was also the key attribute for model, the model table has a composite primary key. The table also includes a foreign key implementing the builds relationship. As mentioned in the text above, the builds relationship could alternatively be implemented using a cross-reference table connecting factory and builds, but we have opted for the simpler solution here. We assume that the designation of computer models includes the name of the computer line (e.g. “Orion”) and some particular version of the computer line, which we call the “number” of the model. These versions may contain letters as well as numbers (e.g., “xz450”), which is why a column named “number” is implemented as text.
+	  #+END_EXAMPLE
+	- ![image.png](../assets/image_1771392418408_0.png)
+	- #+BEGIN_EXAMPLE
+	  The model_application table implements the multivalued attribute application of the model entity. Each row of the table contains a single application value describing a particular computer model. Note that, as the model entity has a composite primary key, the model_application table has a composite foreign key referencing its parent (not two separate foreign keys for each component of the parent key). Additionally, we constrain the values in application to come from a set list of possible values, contained in the application table (below).
+	  #+END_EXAMPLE
+	- ![image.png](../assets/image_1771392493463_0.png)
+	- ![image.png](../assets/image_1771392547396_0.png)
+	- ![image.png](../assets/image_1771392559530_0.png)
+	- ![image.png](../assets/image_1771392573423_0.png)
 	-
