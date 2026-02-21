@@ -48,13 +48,16 @@
 		- **Rational decision-making process** comprises the steps the decision makes to arrive at a choice
 		- Process a manager uses to make decisions has a significant impact on quality of those decisions
 		- Decision making steps:
-		- #+BEGIN_EXAMPLE
-		  Identify an existing problem.
-		  List possible alternatives for solving the problem.
-		  Select the most beneficial of these alternatives.
-		  Implement the selected alternative.
-		  Gather feedback to find out whether the implemented alternative is solving the identified problem.
-		  #+END_EXAMPLE
+		- Identify an existing problem.
+		  logseq.order-list-type:: number
+		- List possible alternatives for solving the problem.
+		  logseq.order-list-type:: number
+		- Select the most beneficial of these alternatives.
+		  logseq.order-list-type:: number
+		- Implement the selected alternative.
+		  logseq.order-list-type:: number
+		- Gather feedback to find out whether the implemented alternative is solving the identified problem.
+		  logseq.order-list-type:: number
 		- ![image.png](../assets/image_1771636716386_0.png)
 		- ### Identifying an existing problem
 			- Essentially a problem-solving process that involves eliminating barriers to organizational goal attainment
