@@ -1,3 +1,4 @@
 - [[MGT 301/Chapter Notes/Chapter 1]]
 - [[MGT 301/Chapter Notes/Chapter 5]]
+- [[MGT 301/Chapter Notes/Chapter 8]]
 -
