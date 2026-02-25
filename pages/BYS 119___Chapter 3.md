@@ -1,7 +1,6 @@
 # Concept 3.1: Polar covalent bonds in water
 - Properties of water arise from actions of oppositely charged atoms of different water molecules
 - Positive hydrogen of one molecule attracted to negative oxygen of a nearby molecule
-- ![image.png](../assets/image_1770443518085_0.png){:height 506, :width 511}
 -
 - # Concept 3.2
 - ## Cohesion of Water Molecules
