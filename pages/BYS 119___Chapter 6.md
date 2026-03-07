@@ -21,7 +21,7 @@
 			- Catabolic pathways release energy by breaking down complex molecules
 			- Some bonds are broken and others are formed, releasing energy and resulting in lower-energy breakdown products
 			- Biochemical pathways, carried out in the context of cellular structures, enable cells to release chemical energy from food molecules and use the energy to power life processes
-			- ![image.png](../assets/image_1772250582064_0.png)
+			- ![image.png](../assets/image_1772250582064_0.png){:height 672, :width 687}
 	- ### Laws of Energy Transformation
 		- **Thermodynamics-** study of the energy transformations that occur in a collection of matter is called
 		- #### First Law of Thermodynamics
