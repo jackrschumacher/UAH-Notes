@@ -7,6 +7,9 @@
 		- What impact will this have on future generations, as these kids grow up and might pass these same traits on to thier kids
 		- What impact will this have on the current generation?
 			- Increasing Rates of ADHD, etc \rarr Does this have to something to do with this?
+				- Spending time on short term activities (scrolling,etc)
+				- Not learning to live in the moment
+				- **Think like nature**
 			- Less likely to take their kids to natural places?
 				- Less likely to explore the world around them?
 			-
