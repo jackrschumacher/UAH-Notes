@@ -44,5 +44,44 @@
 		- ![image.png](../assets/image_1773810006082_0.png)
 - # 7.3- Genetic instructions
 	- ## The nucleus
-		-
-	-
+		- **Nucleus-** contains most of the genes of the eukaryotic cell
+		- **Nuclear envelope-** encloses the nucleus- separates contents from the cytoplasm
+		- ![5b1d59a61ab5e17165874ebd911b5370 (2).jpg](../assets/5b1d59a61ab5e17165874ebd911b5370_(2)_1773847714137_0.jpg)
+		- Nuclear envelope is a double membrane
+		- Membranes are seperated by 20-40nm
+		- At the lip of each pore, the inner and outer membranes of the nuclear envelope are continous
+		- The nuclear side of the envelope is lined by the **nuclear lamina-** netlike array of protein filaments (called intermediate filaments)
+		- **Chromosomes-** DNA organization into distinct units
+			- Each chromosomes contains one long DNA molecule associated with many proteins
+			- Some proteins help coil the DNA molecule of each chromosome
+		- **Chromatin-** The complex of DNA and proteins making up chromosomes
+		- **Nucleolus-** Ribosomal RNA is synthesized from genes in DNA.
+		- Nucleus directs protein synthesis by synthesizing messenger RNA that carries information from the DNA
+	- ## Ribosomes
+		- **Ribosomes-** complexes made of ribosomal RNAs and proteins are the cellular components that carry out protein synthesis
+		- Cells with high rates of protein synthesis have particularly large numbers of ribosomes and prominent nuceoli
+		- ![65cf9da1f1256b5c44e75d6f23fac562.jpg](../assets/65cf9da1f1256b5c44e75d6f23fac562_1773856216990_0.jpg)
+		- Ribosomes build proteins in two cytoplasmic regions
+		- **Free ribosomes-** suspended in the cytosol
+		- **Bound ribosomes-** attach to the outside of the endoplasmic reticulum or nuclear envelope
+		- Both are structurally identical
+		- Ribosomes generally make proteins designed for insertion into membranes
+		- Cells that specialize in protein secretion-for instance, the cell of the pancreas that secrete digestive enzymes
+- # 7.4- The endomembrane
+	- **The endomembrane system-** includes the nuclear envelope, the endoplasmic reticulum, Golgi apparatus, lysosomes, vesicles and vacuoles and the plasma membrane
+		- Carries out a variety of tasks in the cell, synthesis of proteins, transport of proteins into membranes and organelles
+		- Membranes of the system are related either through direct physical continuity by the transfer of membrane segments as vesicles
+	- **Vesicles-** sacs made of membrane
+	- ## The Endoplasmic reticulum
+		- **Endoplasmic reticulum-** an extensive network of membranes that it accounts for more than half of the total membrane in many eukaryotic cells
+		- Consists of a network of membranous tubules and sacs called *cisterna*
+		- The space between the two membranes of the envelope is continuous with the lumen of the ER
+		- ![69498fa54bbdad18acf14fb8ddfeeb04.jpg](../assets/69498fa54bbdad18acf14fb8ddfeeb04_1773857385599_0.jpg)
+		- ![bd716112dd6dad709fa00745090b061d.jpg](../assets/bd716112dd6dad709fa00745090b061d_1773857377177_0.jpg)
+		- **Smooth ER-** outer surface lacks ribosomes
+		- **Rough ER-** studded with ribosomes on the outer surface of the membrane and thus appears rough on ER microscopes
+	- ### Functions of Smooth ER
+		- Synthesis of lipids, metabolism of carbohydrates, detox of drugs and poisons, calcium ions
+			- Lipids- oils, steroids and new membrane phospholipids
+			- Other enzymes of the Smooth ER help detoxify drugs and proteins
+			-
