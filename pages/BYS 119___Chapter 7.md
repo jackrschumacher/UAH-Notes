@@ -77,11 +77,21 @@
 		- Consists of a network of membranous tubules and sacs called *cisterna*
 		- The space between the two membranes of the envelope is continuous with the lumen of the ER
 		- ![69498fa54bbdad18acf14fb8ddfeeb04.jpg](../assets/69498fa54bbdad18acf14fb8ddfeeb04_1773857385599_0.jpg)
-		- ![bd716112dd6dad709fa00745090b061d.jpg](../assets/bd716112dd6dad709fa00745090b061d_1773857377177_0.jpg)
 		- **Smooth ER-** outer surface lacks ribosomes
 		- **Rough ER-** studded with ribosomes on the outer surface of the membrane and thus appears rough on ER microscopes
 	- ### Functions of Smooth ER
 		- Synthesis of lipids, metabolism of carbohydrates, detox of drugs and poisons, calcium ions
 			- Lipids- oils, steroids and new membrane phospholipids
 			- Other enzymes of the Smooth ER help detoxify drugs and proteins
-			-
+		- **Glycoproteins-** proteins with carbohydrates covalently bonded to them
+		- **Transport vesicles-** Vesicles in transit from one part of the cell to another
+		- Rough ER is the membrane factory for the cell
+	- ### The Golgi Apparatus
+		- Shipping and receiving center
+		- Many transport vesicles travel to the **Golgi aparatus**
+		- ![bd716112dd6dad709fa00745090b061d.jpg](../assets/bd716112dd6dad709fa00745090b061d_1773857377177_0.jpg){:height 453, :width 718}
+		- Has a strict structure directionally
+		- cis face
+		- trans face
+		- Also manufactures macromolecules
+		-
