@@ -1,0 +1,7 @@
+- Mixing solutions and solids:
+	- Add portion of liquid solvent first
+	- Solid solute
+	- Fill to the final volume
+- Always add acid to water, not water to acid
+- Read the bottom of the meniscus to find the volume of the liquid
+-
