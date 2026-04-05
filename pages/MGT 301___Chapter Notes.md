@@ -5,5 +5,5 @@
 - [[MGT 301/Chapter Notes/Chapter 10]]
 - [[MGT 301/Chapter Notes/Chapter 11]]
 - [[MGT 301/Chapter Notes/Chapter 12]]
--
+- [[MGT 301/Chapter Notes/Chapter 19]]
 -
