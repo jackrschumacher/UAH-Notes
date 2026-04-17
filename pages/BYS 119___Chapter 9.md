@@ -84,5 +84,57 @@
 		  id:: 69e081c8-e15b-464a-a1c7-9b4b00c94dce
 		- **Diacylglycerol (DAG)-** A second messenger produced by the cleavage of the phospholipid PIP2 in the plasma membrane.
 		- ![a13607ef0e85e23b1e2b4e8f4168a16c.jpg](../assets/a13607ef0e85e23b1e2b4e8f4168a16c_1776321312551_0.jpg)
+	- ## 9.4 - Cellular Response
+	- ### Nuclear and Cytoplasmic responses
+		- Leads to the regulation of one or more cellular activities
+		- Response may occur in the nucleus or in the cytoplasm of the cell
+		- Most signaling pathways regulate photosynthesis
+		- Transcription factors often regulate several genes
+		- ![418900b7d6173f5d2b54e96a35c04c3e.png](../assets/418900b7d6173f5d2b54e96a35c04c3e_1776352710605_0.png)
+		- Signaling pathway may regulate the activity of proteins rather than causing their synthesis by activating gene expression
+		- Affects proteins that function outside of the nucleus
+		- ![c449fda5bb5458e7618fd30b9871442c.jpg](../assets/c449fda5bb5458e7618fd30b9871442c_1776352887198_0.jpg)
+	- ## Regulation of the Response
+		- Extent and the specificity of the response are regulated
+			- Signaling pathways
+			- Control points
+			- Scaffolding proteins
+			- Termination of signal
+	- ### Signal Amplification
+		- Amplifies the cells response to a signal
+		- Amplification stems from the fact that these proteins persist in their active form long enough to process multiple molecules
+	- ### Specificity of Cell Signaling and Coordination of response
+		- Only the specified cell responds to the signal
+		- Different kinds of cells have different collections of proteins
+		- Two cells that respond different to the same signal differ in one or more proteins that respond to the signal
+		- Branching pathways and cross-talk
+		- ![f2c7a392700ad6f4513c9e04e853c48b.jpg](../assets/f2c7a392700ad6f4513c9e04e853c48b_1776353314255_0.jpg)
+	- ### Signaling Efficiency: Scaffolding Proteins and Signaling complexes
+		- Diagrams show only a few relay molecules
+		- Efficiency of signal transduction is apparently increased due to scaffolding proteins
+		- **scaffolding proteins-** A type of large relay protein to which several other relay proteins are simultaneously attached, increasing the efficiency of signal transduction.
+		- ![79e2b58f5d906a6ad0f35a79181cab10.jpg](../assets/79e2b58f5d906a6ad0f35a79181cab10_1776353432678_0.jpg)
+		- Multifunctional relay protein is both a branch point and an important intersection point and an important intersection point
+	- ### Termination of the Signal
+		- Ability of the cell to receive new signals depends on the reversibility of the changes produced by prior signals
+		- Cellular response only occurs when the concentration of receptors is above a certain threshold
+		- Relay molecules return to their inactive forms
+		- Cell is then ready to respond to a fresh signal
+	- ## Apoptosis requires integration of multiple cell-signaling pathways
+		- **apoptosis-** A type of programmed cell death, which is brought about by activation of enzymes that break down many chemical components in the cell.
+			- Cell shrinks and becomes lobed and the cells parts are packaged up in vesicles that are engulfed and digested by specialized scavenger cells
+		- Signal that triggers all of the complex events can come from either inside the cell or outside the cell
+	- ### Apoptosis in the Soil Worm
+		- Apoptosis occurs 131 times during the development of the worm, at the same time for each worm
+		- Death signal is received by the cell and causes it to die
+		- ![ccb056655bdd63fc8e5c4662c1448301.jpg](../assets/ccb056655bdd63fc8e5c4662c1448301_1776353959544_0.jpg)
+	- ### Pathways and Signals that Trigger them
+		- Pathways depend on the type of cell
+		- Mitochondrial proteins that are triggered to form molecular pores in the molecular pores
+		- Relay proteins integrate from many different sources and can send a cell during an apoptotic pathway
+		- One signal comes from the nucleus and another comes from the endoplasmic reticulum
+		- Essential to the development/ health in all animals
+		- ![efd5f739b21d98b7fa58c43256132d2e.jpg](../assets/efd5f739b21d98b7fa58c43256132d2e_1776354154340_0.jpg)
+		- Belief that Apoptosis may occur prematurely and cause degenerative diseases such as alzheimers and dementia
 		-
 -
