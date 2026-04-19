@@ -25,7 +25,7 @@
 		- Consideration / Employee centered focus
 		  logseq.order-list-type:: number
 		- Leaders can learn and develop those behaviors
-- ![image.png](../assets/image_1776448503595_0.png)
+- ![image.png](../assets/image_1776448503595_0.png){:height 334, :width 735}
 - ## Life Cycle Theroy
 	- Core idea
 	- Low Maturity \rarr High Task, Low Relationship
