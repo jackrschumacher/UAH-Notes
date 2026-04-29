@@ -1,7 +1,4 @@
-- **Logseq Notes Summary: Chapter 13 - Changing Organizations: Stress, Conflict, and Virtuality**
-- **Title**: [[Modern Management 15e]] [[Chapter 13]] - Changing Organizations: Stress, Conflict, and Virtuality
-- **Source**: certo_mm15_ppt_13.pdf
-- ### Learning Objectives
+### Learning Objectives
 - 13.1 Fundamental principles of changing an organization
 - 13.2 Insights about factors to consider when changing an organization
 - 13.3 An appreciation for the relationship between change and stress
