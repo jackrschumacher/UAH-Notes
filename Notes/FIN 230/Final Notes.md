@@ -1,0 +1,9 @@
+- Golden cross- average crosses above 200 day high (or something similar)
+- Death cross- average crosses below 200 day low (or something similar)
+- Profiting from a head and shoulders formation \rarr head minus neckline?
+- Inverse head and shoulders acts as a reversal pattern for a preceding **uptrend**
+- **ascending triangle** \rarr A triangle chart pattern that indicates a consolidation period and has bullish trading implications
+- When a security is not trending it is a **consolidation**
+- **Availability** \rarr Overestimation of the prevalence of behavioral bias
+- **Overconfidence** \rarr most often associated with market ubbles
+- **Conservatism** \rarr Taking years to adapt forecasts to the lower growth enviroment

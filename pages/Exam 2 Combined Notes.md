@@ -1,5 +1,0 @@
-- {{embed [[Chapter 2- ZARA]]}}
-- {{embed [[Chapter 5- Netflix]]}}
-- {{embed [[Chapter 9- Amazon]]}}
-- {{embed [[Chapter 20- A Manager's Guide to the Internet and Telecommunications]]}}
--

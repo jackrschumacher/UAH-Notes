@@ -1,0 +1,4 @@
+- ![[Chapter 2- Zara|Chapter 2- ZARA]]
+- ![[Chapter 5- Netflix]]
+- ![[Chapter 9- Amazon]]
+- ![[Chapter 20- A Manager's Guide to the Internet and Telecommunications]]

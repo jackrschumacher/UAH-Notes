@@ -1,4 +1,9 @@
-.recycle/*
-logseq/bak/*
-logseq/.recycle/*
+# Obsidian workspace + local state (per-machine, not worth versioning)
+.obsidian/workspace.json
+.obsidian/workspace-mobile.json
+.obsidian/cache
+.obsidian/plugins/*/data.json
+.trash/
+
 .DS_Store
+Thumbs.db

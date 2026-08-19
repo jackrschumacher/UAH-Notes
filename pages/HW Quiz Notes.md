@@ -1,2 +1,0 @@
-- [[HW Quiz 1 notes]]
-- [[HW Quiz 2 notes]]

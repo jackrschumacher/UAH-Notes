@@ -1,0 +1,4 @@
+| Date | Accounts | Debit | Credit |
+| --- | --- | --- | --- |
+|  |  |  |  |
+|  |  |  |  |
