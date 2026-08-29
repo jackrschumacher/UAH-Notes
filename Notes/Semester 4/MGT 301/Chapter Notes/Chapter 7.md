@@ -1,5 +1,5 @@
 - **Logseq Notes Summary: Chapter 7 - Plans and Planning Tools**
-- **Title**: [[Modern Management 15e]] [[Chapter 7]] - Plans and Planning Tools
+- **Title**: [[Modern Management 15e]] [[Notes/Semester 4/MGT 301/Chapter Notes/Chapter 7]] - Plans and Planning Tools
 - **Source**: certo_mm15_ppt_07.pptx
 - ### Learning Objectives
 - 7.1 An understanding of the general characteristics of planning

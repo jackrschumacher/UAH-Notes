@@ -1,5 +1,5 @@
 - **Logseq Notes Summary: Chapter 4 - Management and Diversity**
-- **Title**: [[Modern Management 15e]] [[Chapter 4]] - Management and Diversity
+- **Title**: [[Modern Management 15e]] [[Notes/Semester 4/MGT 301/Chapter Notes/Chapter 4]] - Management and Diversity
 - **Source**: certo_mm15_ppt_04.pdf
 - ### Learning Objectives
 - 4.1 A definition of diversity

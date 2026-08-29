@@ -1,0 +1,20 @@
+- [[Notes/Semester 4/MGT 301/Chapter Notes/Chapter 1]]
+- [[Notes/Semester 4/MGT 301/Chapter Notes/Chapter 5]]
+- [[Notes/Semester 4/MGT 301/Chapter Notes/Chapter 8]]
+- [[Notes/Semester 4/MGT 301/Chapter Notes/Chapter 9]]
+- [[Notes/Semester 4/MGT 301/Chapter Notes/Chapter 10]]
+- [[Chapter 11]]
+- [[Notes/Semester 4/MGT 301/Chapter Notes/Chapter 12]]
+- [[Chapter 19]]
+
+## Notes
+
+- [[Notes/Semester 4/MGT 301/Chapter Notes/Chapter 13|Chapter 13]]
+- [[Notes/Semester 4/MGT 301/Chapter Notes/Chapter 14|Chapter 14]]
+- [[Notes/Semester 4/MGT 301/Chapter Notes/Chapter 15|Chapter 15]]
+- [[Notes/Semester 4/MGT 301/Chapter Notes/Chapter 2|Chapter 2]]
+- [[Chapter 20|Chapter 20]]
+- [[Notes/Semester 4/MGT 301/Chapter Notes/Chapter 3|Chapter 3]]
+- [[Notes/Semester 4/MGT 301/Chapter Notes/Chapter 4|Chapter 4]]
+- [[Notes/Semester 4/MGT 301/Chapter Notes/Chapter 6|Chapter 6]]
+- [[Notes/Semester 4/MGT 301/Chapter Notes/Chapter 7|Chapter 7]]

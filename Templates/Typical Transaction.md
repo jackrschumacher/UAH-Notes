@@ -1,4 +1,0 @@
-### {{title}}
-
-- **Debit:**
-- **Credit:**

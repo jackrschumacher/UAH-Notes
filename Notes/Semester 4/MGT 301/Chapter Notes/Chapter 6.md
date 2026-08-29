@@ -1,5 +1,5 @@
 - **Logseq Notes Summary: Chapter 6 - Creativity and Innovation**
-- **Title**: [[Modern Management 15e]] [[Chapter 6]] - Creativity and Innovation
+- **Title**: [[Modern Management 15e]] [[Notes/Semester 4/MGT 301/Chapter Notes/Chapter 6]] - Creativity and Innovation
 - **Source**: certo_mm15_ppt_06.pdf
 - ### Learning Objectives
 - 6.1 A definition of creativity and an awareness of its importance in organizations

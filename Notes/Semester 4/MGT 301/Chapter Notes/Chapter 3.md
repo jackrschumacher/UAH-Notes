@@ -1,5 +1,5 @@
 - **Logseq Notes Summary: Chapter 3 - Society, Ethics, and Sustainability**
-- **Title**: [[Modern Management 15e]] [[Chapter 3]] - Society, Ethics, and Sustainability
+- **Title**: [[Modern Management 15e]] [[Notes/Semester 4/MGT 301/Chapter Notes/Chapter 3]] - Society, Ethics, and Sustainability
 - **Source**: certo_mm15_ppt_03.pdf
 - ### Fundamentals of Social Responsibility
 - **Social Responsibility**: The managerial obligation to take action that protects and improves both the welfare of society as a whole and the interests of the organization

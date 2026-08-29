@@ -1,6 +1,0 @@
-## {{title}}
-
-### Description
-
-
-### Key example

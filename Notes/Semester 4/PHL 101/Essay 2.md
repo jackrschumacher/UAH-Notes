@@ -1,4 +1,4 @@
-- [[PHL 101/Essay 2/Requirements]]
+- [[Requirements]]
 - # Brainstorming
 	- **Main theme: The relationship between increasingly connected technological world of today and the natural world**
 		- Has the increased amount of interconnectedness between us restricted our ability to truly be connected with nature?

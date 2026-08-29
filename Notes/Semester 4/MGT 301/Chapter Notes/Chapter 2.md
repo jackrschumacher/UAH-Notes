@@ -1,5 +1,5 @@
 - **Logseq Notes Summary: Chapter 2 - Management and Entrepreneurship**
-- **Title**: [[Modern Management 15e]] [[Chapter 2]] - Management and Entrepreneurship: Handling Start-Ups and New Ventures
+- **Title**: [[Modern Management 15e]] [[Notes/Semester 4/MGT 301/Chapter Notes/Chapter 2]] - Management and Entrepreneurship: Handling Start-Ups and New Ventures
 - **Source**: certo_mm15_ppt_02.pptx
 - ### Learning Objectives
 - 2.1 Understand the three stages of entrepreneurship
